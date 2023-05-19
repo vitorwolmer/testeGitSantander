@@ -14,3 +14,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ### MAIS UMA ALTERAÇÃO
 
 ### USO DO COMANDO GIT RESTORE
+
+### comando git fetch
